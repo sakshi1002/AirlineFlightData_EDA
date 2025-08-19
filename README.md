@@ -1,4 +1,4 @@
-# ✈️ Airline Flights Data - Exploratory Data Analysis (EDA)
+#  Airline Flights Data - Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on airline flight data to uncover patterns in pricing, routes, stops, and airline revenue contribution.  
